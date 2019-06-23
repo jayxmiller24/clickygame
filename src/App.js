@@ -6,6 +6,7 @@ import Scoreboard from './components/ScoreBoard';
 import FriendCard from "./components/FriendCard"
 import GameOver from './components/GameOver';
 import Jumbotron from './components/Jumbotron'
+import "./App.css";
 
 
 
