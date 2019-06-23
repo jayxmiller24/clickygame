@@ -1,0 +1,6 @@
+.jumbotron {
+    background-image: url("../../images/cn.jpg");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

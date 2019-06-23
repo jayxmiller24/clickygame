@@ -1,0 +1,54 @@
+[
+    {
+      "id": 1,
+      "name": "The Eds",
+      "image": "https://sketchok.com/images/articles/01-cartoons/000-va/25/32.jpg",
+      "occupation": "Teenagers",
+      "location": "Trailer Park USA"
+    },
+    {
+      "id": 2,
+      "name": "Johnny Bravo",
+      "image": "https://www.teestory.in/image/cache/catalog/12%20may%20stickers/STNA0007-420x546.jpg",
+      "occupation": "Wannabe Ladies Man",
+      "location": "California"
+    },
+    {
+      "id": 3,
+      "name": "Rocko",
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/ee/Rocko_%28Rocko%27s_Modern_Life%29.png",
+      "occupation": "Wallaby",
+      "location": "O-Town"
+    },
+    {
+      "id": 4,
+      "name": "Dexter",
+      "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
+      "occupation": "Boy Genius",
+      "location": "A Secret Laboratory"
+    },
+    {
+      "id": 5,
+      "name": "Courage",
+      "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
+      "occupation": "A Cowardly Dog",
+      "location": "Nowhere, Kansas"
+    },
+    {
+      "id":6,
+      "name": "PowerPuff Girls",
+      "image": "https://assets.teenvogue.com/photos/5beb340b368e21796e2d8b85/16:9/w_1280%2Cc_limit/ppg2016_keyart_horizontal_nologos_final.jpg",
+      "occupation": "Super Heroes",
+      "location": "Townsville"
+
+    },
+    {
+      "id":7,
+      "name": "Grim,Billy, and Mandy",
+      "image": "https://i.ytimg.com/vi/XgcwQU-1Svc/maxresdefault.jpg",
+      "occupation": "Kids and the Grim Reaper",
+      "location": "Endsville"
+
+
+    }
+]
